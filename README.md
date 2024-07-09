@@ -4,9 +4,7 @@
 I'm a passionate Full Stack Developer with expertise in Flutter, Node.js, and React.js. I love building efficient and scalable web and mobile applications. I'm always eager to learn new technologies and improve my skills.
 
 - 💬 Ask me about **Flutter, Node.js, React.js, Express, MongoDB, SQL**
-- 📫 How to reach me: **[Your Email]**
-- 😄 Pronouns: **He/Him** or **She/Her** or **They/Them**
-- ⚡ Fun fact: **[A fun fact about you]**
+- 📫 How to reach me: **kailaweb109@gmail.com**
 
 ## Skills
 - **Front-end:** HTML, CSS, JavaScript, React, Redux, Flutter, Dart
